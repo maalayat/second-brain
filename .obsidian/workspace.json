@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "898d20304221ab64",
+    "type": "split",
+    "children": [
+      {
+        "id": "486b8fc98722f833",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37f55a4fc94c5ff0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "👨🏽‍🎓 Courses/Linux for developers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32115ae696139f09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "👨🏽‍🎓 Courses/Zsh.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e5a24d8dfc5e633",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "👨🏽‍🎓 Courses/FZF.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3bbd3072a4b6d0de",
+    "type": "split",
+    "children": [
+      {
+        "id": "907efbec0b7fc24c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a694f3698d782d0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "69bca9bd693140b1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "693b87990c2288b5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d2755489462e15af",
+    "type": "split",
+    "children": [
+      {
+        "id": "07178d5d2dd714bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5113229ef8ecdae4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "👨🏽‍🎓 Courses/Zsh.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "905e76f8ea773b5d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "👨🏽‍🎓 Courses/Zsh.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ad5313352ce81e64",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3c566e929cc6ec83",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "👨🏽‍🎓 Courses/Zsh.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "32115ae696139f09",
+  "lastOpenFiles": [
+    "👨🏽‍🎓 Courses/FZF.md",
+    "👨🏽‍🎓 Courses/Zsh.md",
+    "👨🏽‍🎓 Courses/Alias.md",
+    "👨🏽‍🎓 Courses/Linux for developers.md",
+    "👨🏽‍🎓 Courses/Mechanical keyboards.md",
+    "👨🏽‍🎓 Courses/Obsidian.md",
+    "zsh_bindings_gce.png",
+    "👨🏽‍🎓 Courses/Docker for developers.md",
+    "key_caps_classification.png",
+    "👨🏽‍🎓 Courses/eXtrema Programming/eXtreme Programming.md"
+  ]
+}

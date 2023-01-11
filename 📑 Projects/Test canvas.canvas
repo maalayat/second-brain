@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"17c1bc3507560edb","x":-451,"y":-139,"width":250,"height":60,"type":"text","text":"Controller"},
+		{"id":"6f8add4346d908ca","x":-93,"y":-139,"width":250,"height":60,"type":"text","text":"Application service"},
+		{"id":"9b3cbb320d051459","x":295,"y":-55,"width":250,"height":60,"type":"text","text":"Repository"}
+	],
+	"edges":[
+		{"id":"f5752c2cffff8f63","fromNode":"17c1bc3507560edb","fromSide":"right","toNode":"6f8add4346d908ca","toSide":"left"},
+		{"id":"73025e5761c6d203","fromNode":"6f8add4346d908ca","fromSide":"right","toNode":"9b3cbb320d051459","toSide":"left"}
+	]
+}
