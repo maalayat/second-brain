@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "486b8fc98722f833",
+        "id": "40f23c8ff8f9adab",
         "type": "tabs",
         "children": [
           {
-            "id": "37f55a4fc94c5ff0",
+            "id": "0b6cc91492ec909c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "👨🏽‍🎓 Courses/Linux for developers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32115ae696139f09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "👨🏽‍🎓 Courses/Zsh.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9e5a24d8dfc5e633",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "👨🏽‍🎓 Courses/FZF.md",
+                "file": "Courses/Software architecture/Event-Driven Architecture.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "👨🏽‍🎓 Courses/Zsh.md",
+                "file": "Courses/Software architecture/Event-Driven Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "👨🏽‍🎓 Courses/Zsh.md",
+                "file": "Courses/Software architecture/Event-Driven Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "👨🏽‍🎓 Courses/Zsh.md"
+                "file": "Courses/Software architecture/Event-Driven Architecture.md"
               }
             }
           }
@@ -171,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "32115ae696139f09",
+  "active": "0b6cc91492ec909c",
   "lastOpenFiles": [
-    "👨🏽‍🎓 Courses/FZF.md",
-    "👨🏽‍🎓 Courses/Zsh.md",
-    "👨🏽‍🎓 Courses/Alias.md",
-    "👨🏽‍🎓 Courses/Linux for developers.md",
-    "👨🏽‍🎓 Courses/Mechanical keyboards.md",
-    "👨🏽‍🎓 Courses/Obsidian.md",
+    "Courses/Software architecture/unordered_events.png",
+    "Courses/Software architecture/Event-Driven Architecture.md",
+    "Courses/Software architecture/message_broker.png",
+    "Courses/Zsh.md",
+    "zsh_bingings_dir.png",
     "zsh_bindings_gce.png",
-    "👨🏽‍🎓 Courses/Docker for developers.md",
-    "key_caps_classification.png",
-    "👨🏽‍🎓 Courses/eXtrema Programming/eXtreme Programming.md"
+    "Courses/eXtreme Programming/eXtreme Programming.md",
+    "Courses/Tooling/Mechanical keyboards.md",
+    "Courses/Tooling/key_caps_classification.png",
+    "💡 Ideas/Stable Diffusion.md"
   ]
 }
