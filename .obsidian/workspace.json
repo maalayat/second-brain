@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Software architecture/Event-Driven Architecture.md",
+                "file": "Courses/Linux for developers.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Software architecture/Event-Driven Architecture.md",
+                "file": "Courses/Linux for developers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Software architecture/Event-Driven Architecture.md",
+                "file": "Courses/Linux for developers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/Software architecture/Event-Driven Architecture.md"
+                "file": "Courses/Linux for developers.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "0b6cc91492ec909c",
   "lastOpenFiles": [
-    "Courses/Software architecture/unordered_events.png",
-    "Courses/Software architecture/Event-Driven Architecture.md",
-    "Courses/Software architecture/message_broker.png",
+    "Courses/Obsidian.md",
     "Courses/Zsh.md",
+    "Courses/Linux for developers.md",
+    "Courses/GitHub Actions.md",
+    "Courses/Software architecture/Event-Driven Architecture.md",
+    "Courses/Software architecture/unordered_events.png",
+    "Courses/Software architecture/message_broker.png",
     "zsh_bingings_dir.png",
     "zsh_bindings_gce.png",
-    "Courses/eXtreme Programming/eXtreme Programming.md",
-    "Courses/Tooling/Mechanical keyboards.md",
-    "Courses/Tooling/key_caps_classification.png",
-    "💡 Ideas/Stable Diffusion.md"
+    "Courses/eXtreme Programming/eXtreme Programming.md"
   ]
 }
