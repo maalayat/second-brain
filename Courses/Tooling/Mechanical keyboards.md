@@ -65,3 +65,4 @@ Other kind of keyboard is ==Hot swappable==
 - https://www.maxkeyboard.com/
 - https://dygma.com/
 - https://drop.com/
+- https://dry.sailingissues.com/us-international-keyboard-layout.html
