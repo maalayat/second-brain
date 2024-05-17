@@ -1,0 +1,61 @@
+kind: Middleware
+apiVersion: traefik.containo.us/v1alpha1
+metadata:
+  name: demo-k3d-stripprefix
+spec:
+  stripPrefix:
+    prefixes:
+      - /demo-k3d
+---
+kind: IngressRoute
+apiVersion: traefik.containo.us/v1alpha1
+metadata:
+  name: demo-k3d-ingress-route
+spec:
+  entryPoints:
+    - web
+  routes:
+    - match: PathPrefix(`/demo-k3d`)
+      kind: Rule
+      services:
+        - name: demo-k3d
+          port: 8080
+      middlewares:
+        - name: demo-k3d-stripprefix
+---
+kind: Service
+apiVersion: v1
+metadata:
+  name: demo-k3d
+  labels:
+    app: demo-k3d
+spec:
+  type: ClusterIP
+  selector:
+    app: demo-k3d
+  ports:
+    - port: 8080
+      targetPort: 8080
+      name: http
+---
+kind: Deployment
+apiVersion: apps/v1
+metadata:
+  name: demo-k3d
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: demo-k3d
+  template:
+    metadata:
+      labels:
+        app: demo-k3d
+        version: v1
+    spec:
+      containers:
+        - name: demo-k3d
+          image: solmedia/demo-k3d
+          imagePullPolicy: Never
+          ports:
+            - containerPort: 8080

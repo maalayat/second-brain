@@ -1,0 +1,36 @@
+kind: Service
+apiVersion: v1
+metadata:
+  name: demo-docker-desktop
+  labels:
+    app: demo-docker-desktop
+spec:
+  type: LoadBalancer
+  selector:
+    app: demo-docker-desktop
+  ports:
+  - port: 80
+    targetPort: 8080
+    name: http
+---
+kind: Deployment
+apiVersion: apps/v1
+metadata:
+  name: demo-docker-desktop
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: demo-docker-desktop
+  template:
+    metadata:
+      labels:
+        app: demo-docker-desktop
+        version: v1
+    spec:
+      containers:
+      - name: demo-docker-desktop
+        image: solmedia/demo-docker-desktop
+        imagePullPolicy: Never
+        ports:
+        - containerPort: 8080

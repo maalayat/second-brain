@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "dd84531acf74b793",
+        "id": "60b70defead0888d",
         "type": "tabs",
         "children": [
           {
-            "id": "d06eff700705a9eb",
+            "id": "260e673eacecbd15",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Courses/Docker and Kubernetes/Kubernetes for developers.md",
-                "mode": "source",
-                "source": false
+                "file": "📑 Projects/WaSS Flow.canvas",
+                "viewState": {
+                  "x": 176,
+                  "y": -290,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -93,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Docker and Kubernetes/Kubernetes for developers.md",
+                "file": "📑 Projects/WaSS Flow.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Docker and Kubernetes/Kubernetes for developers.md",
+                "file": "📑 Projects/WaSS Flow.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/Docker and Kubernetes/Kubernetes for developers.md"
+                "file": "📑 Projects/WaSS Flow.canvas"
               }
             }
           }
@@ -154,14 +157,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d06eff700705a9eb",
+  "active": "260e673eacecbd15",
   "lastOpenFiles": [
-    "Courses/Docker and Kubernetes/Docker for developers.md",
+    "📑 Projects/Test canvas.canvas",
+    "📑 Projects/WaSS Flow.canvas",
+    "Courses/Machine Learning AWS/Introduction to Machine Learning.md",
+    "Courses/Machine Learning AWS/Pasted image 20240221224134.png",
     "Courses/Docker and Kubernetes/Kubernetes for developers.md",
-    "Courses/Docker and Kubernetes/Microservices - Docker Desktop.md",
+    "Courses/Machine Learning AWS",
+    "Courses/Intellij Idea.md",
     "Courses/Docker and Kubernetes/Microservices - MicroK8s.md",
-    "app-kind.yaml",
     "Courses/Docker and Kubernetes/Microservices - k3d.md",
+    "Courses/Docker and Kubernetes/Docker for developers.md",
+    "Courses/Docker and Kubernetes/Microservices - Docker Desktop.md",
+    "app-kind.yaml",
     "Courses/Docker and Kubernetes/Microservices - Kind.md",
     "Courses/Docker and Kubernetes/Microservices - Minikube.md",
     "Courses/Bash.md",
@@ -169,7 +178,6 @@
     "Courses/Github Actions/json_schema_githuba_workflow.png",
     "Courses/Alias.md",
     "Courses/Docker and Kubernetes",
-    "Courses/Intellij Idea.md",
     "Courses/TDD",
     "Courses/Zsh/zsh_bindings_gce.png",
     "Courses/Zsh/Zsh.md",
@@ -189,7 +197,6 @@
     "Courses/Terraform/user_3.png",
     "Courses/Terraform/create_user.png",
     "Courses/Tooling/Mechanical keyboards.md",
-    "Courses/Tooling/key_caps_classification.png",
     "Courses/Terraform"
   ]
 }

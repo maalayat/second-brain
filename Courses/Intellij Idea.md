@@ -1,7 +1,7 @@
 ## ctrl + shif + A-> 
 - Tab placement: `none`
 - Navigation bar: `off`
-- Beadcrumbs: `Dont show`
+- Breadcrumbs: `Dont show`
 - Code Folding:
 	- File header
 	- Imports
