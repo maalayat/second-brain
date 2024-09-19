@@ -11,15 +11,15 @@
 - Show memory indicator: `on`
 - Change memory settings: `2048 Mb`
 - Settings
-	- Editor -> Color schema -> Color schema font -> Font: Fire code , Size 14 Line height: 1.6
+	- Editor -> Color schema -> Color schema font -> Font: Fire code, Size 14 Line height: 1.6
 	- Appearance & Behavior > System Settings -> Save files when switching to a different application or  a built-in terminal
 	- Version control -> Commit -> Commit message inspections
 
 
 ## Shortcuts
 - View path file: `Alt + Home`
-- Create new package: `Alt + P`
-- Select file in project view: `Shift Alt + S`
+- Create a new package: `Alt + P`
+- Select a file in project view: `Shift Alt + S`
 - Navigate left: `Ctrl+Alt+Shif+Left`
 - Navigate right: `Ctrl+Alt+Shif+Right`
 - Open recent files: `Ctrl + Shift + E`
@@ -28,7 +28,7 @@
 - Go to the Test: `Ctrl + Shift + T`
 - Move to brace: `Ctrl + Shift + M`
 - Multiple cursor: `Alt + J`
-- Format code and check organize imports: `Ctrl + Shift + Alt + L`
+- Format code and check to organize imports: `Ctrl + Shift + Alt + L`
 - Refactor: `Ctrl + Shift + Alt + T`
 - Branches.... : `Ctrl + Shift + Alt  + B`
 - Git Annotate: `Ctrl + Alt + 1`
@@ -47,8 +47,11 @@
 - SpotBugs
 - Maven Helper
 - [Object mother creator](https://plugins.jetbrains.com/plugin/14774-object-mother-creator)
+- [Codeium](https://codeium.com/)
+- [Sourcegraph](https://sourcegraph.com/)
+- [Supermaven](https://supermaven.com/download#jetbrains)
 
-## Tips and triks
+## Tips and tricks
 
 ### Replace quotes around JavaScript object properties
 
