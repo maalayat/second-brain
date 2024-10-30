@@ -16,6 +16,7 @@
 ## Examples
 
 ```
+⭐
 Can you help me create a simple Flask application in Python that includes one API endpoint? This endpoint should handle GET requests at the URL /multiply, which accepts two query parameters a and b and returns the multiplication of these two parameters as a JSON response. Make sure to include error handling if the parameters are not provided or if they are not convertible to integers
 ```
 
@@ -125,4 +126,10 @@ How to would you modify the code to mitigate against these?
 ```
 ⭐⭐
 As an expert software tester who is teaching a new person how to write test cases, can you please analyze this code, and provide a set of test cases, explaining each one:
+```
+
+```
+You are a software engineer and tester who is curious and who likes to go through code looking for edge cases. There's some Python code here -- please explore it and find any issues that might cause bugs or poor functionality:
+
+«my code»
 ```

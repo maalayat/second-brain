@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1697fcded6f120de",
+        "id": "5e62aa6fce2f8c0d",
         "type": "tabs",
         "children": [
           {
-            "id": "5cf6d658742ddc79",
+            "id": "ff49b0ae1b693f5f",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/community-plugins.json",
-                "staged": false
+                "file": "Courses/Generative AI for Software Developers/2. Team Software Engineering with AI/1. Testing and Debugging/1.6 Analyzing code for security vulnerabilities.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (community-plugins.json)"
+              "icon": "lucide-file",
+              "title": "1.6 Analyzing code for security vulnerabilities"
             }
           }
         ]
@@ -169,7 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 679.5
+    "width": 330.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,10 +183,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5cf6d658742ddc79",
+  "active": "ff49b0ae1b693f5f",
   "lastOpenFiles": [
+    "Courses/Generative AI for Software Developers/2. Team Software Engineering with AI/1. Testing and Debugging/1.5 Software performance testing.md",
+    "Courses/Generative AI for Software Developers/2. Team Software Engineering with AI/1. Testing and Debugging/1.6 Analyzing code for security vulnerabilities.md",
+    "Courses/Generative AI for Software Developers/2. Team Software Engineering with AI/1. Testing and Debugging/1.4 Automated testing.md",
+    "Courses/Generative AI for Software Developers/2. Team Software Engineering with AI/1. Testing and Debugging/1.3 Functional testing.md",
+    "Courses/Generative AI for Software Developers/2. Team Software Engineering with AI/1. Testing and Debugging/1.1 Testing and debugging strategies.md",
+    "Courses/Generative AI for Software Developers/2. Team Software Engineering with AI/1. Testing and Debugging/1.2 Exploratory testing.md",
+    "Courses/Generative AI for Software Developers/2. Team Software Engineering with AI/1. Testing and Debugging/SoftwareTesting.png",
     "Courses/Generative AI for Software Developers/Prompts.md",
-    "Courses/Generative AI for Software Developers/2. Team Software Engineering with AI/1. Testing and Debugging/Testing and debugging strategies.md",
+    "Courses/Generative AI for Software Developers/1. Introduction to Generative AI for Software Development/1. Introduction to Generative AI/1.6 Key Transformer concepts.md",
     "Courses/Generative AI for Software Developers/2. Team Software Engineering with AI/3. Dependency Management",
     "Courses/Generative AI for Software Developers/2. Team Software Engineering with AI/2. Documentation",
     "Courses/Generative AI for Software Developers/2. Team Software Engineering with AI/1. Testing and Debugging",
@@ -203,7 +211,6 @@
     "Courses/Generative AI for Software Developers/1. Introduction to Generative AI for Software Development/3. Leveraging an LLM for code analysis/singly-linked-list.png",
     "Courses/Generative AI for Software Developers/3. Leveraging an LLM for code analysis/3.3linkedList.png",
     "Courses/Generative AI for Software Developers/1. Introduction to Generative AI for Software Development/3. Leveraging an LLM for code analysis",
-    "Courses/Generative AI for Software Developers/1. Introduction to Generative AI for Software Development/1. Introduction to Generative AI/1.6 Key Transformer concepts.md",
     "Courses/Generative AI for Software Developers/1. Introduction to Generative AI/1. Introduction to Generative AI.md",
     "Courses/Generative AI for Software Developers/1. Introduction to Generative AI for Software Development/1. Introduction to Generative AI/1.5 Transformer Architecture in Modern AI.md",
     "Courses/Generative AI for Software Developers/1. Introduction to Generative AI for Software Development/1. Introduction to Generative AI/1.1 What is Generative AI.md",
@@ -216,18 +223,12 @@
     "Courses/Generative AI for Software Developers/1. Introduction to Generative AI for Software Development/2. Pair-coding with an LLM/2.5 Assigning the LLM a role.md",
     "Courses/Generative AI for Software Developers/1. Introduction to Generative AI for Software Development/2. Pair-coding with an LLM/2.4 Giving the LLM feedback.md",
     "Courses/Generative AI for Software Developers/1. Introduction to Generative AI for Software Development/2. Pair-coding with an LLM/2.3 Iterative prompting.md",
-    "Courses/Generative AI for Software Developers/1. Introduction to Generative AI for Software Development/2. Pair-coding with an LLM/2.2 Generating code with chatbots.md",
-    "Courses/Generative AI for Software Developers/1. Introduction to Generative AI for Software Development/2. Pair-coding with an LLM/2.6 Leveling up with multiple roles.md",
-    "Courses/Generative AI for Software Developers/1. Introduction to Generative AI for Software Development/2. Pair-coding with an LLM/2.8 LLM best practices.md",
-    "Courses/Generative AI for Software Developers/1. Introduction to Generative AI for Software Development/2. Pair-coding with an LLM/2.1 Transformers and code.md",
     "Courses/Generative AI for Software Developers/1. Introduction to Generative AI for Software Development/2. Pair-coding with an LLM/GeneratinCodeWithChatboots.png",
     "Courses/Generative AI for Software Developers/2. Pair-coding with an LLM/2. GeneratinCodeWithChatboots.png",
     "Courses/Generative AI for Software Developers/1. Introduction to Generative AI for Software Development/2. Pair-coding with an LLM/InterativePrompting.png",
     "Courses/Generative AI for Software Developers/1. Introduction to Generative AI for Software Development/2. Pair-coding with an LLM/LevelingUpWithMultipleRoles.png",
     "Courses/Generative AI for Software Developers/2. Pair-coding with an LLM/5. LevelingUpWithMultipleRoles2.png",
-    "Courses/Generative AI for Software Developers/2. Pair-coding with an LLM/3. InterativePrompting1.png",
     "Courses/Generative AI for Software Developers/1. Introduction to Generative AI for Software Development/2. Pair-coding with an LLM",
-    "Courses/Github Actions/GitHub Actions.md",
     "Courses/Generative AI for Software Developers",
     "📑 Projects/WaSS Flow.canvas",
     "📑 Projects/Test canvas.canvas",
