@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Generative AI for Software Developers/3. AI-Powered Software and System Design/1. Data Serialization and Configuration-Driven Development/1.4 Serializing results.md",
+                "file": "Courses/Generative AI for Software Developers/3. AI-Powered Software and System Design/2. Databases/2.2 Implementing CRUD operations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.4 Serializing results"
+              "title": "2.2 Implementing CRUD operations"
             }
           }
         ]
@@ -185,8 +185,10 @@
   },
   "active": "1b7755e5fae8ad82",
   "lastOpenFiles": [
-    "Courses/Generative AI for Software Developers/3. AI-Powered Software and System Design/1. Data Serialization and Configuration-Driven Development/1.3 Implementing CDD.md",
+    "Courses/Generative AI for Software Developers/3. AI-Powered Software and System Design/2. Databases/2.1 Design and implement a database schema.md",
+    "Courses/Generative AI for Software Developers/3. AI-Powered Software and System Design/2. Databases/2.2 Implementing CRUD operations.md",
     "Courses/Generative AI for Software Developers/3. AI-Powered Software and System Design/1. Data Serialization and Configuration-Driven Development/1.4 Serializing results.md",
+    "Courses/Generative AI for Software Developers/3. AI-Powered Software and System Design/1. Data Serialization and Configuration-Driven Development/1.3 Implementing CDD.md",
     "Courses/Generative AI for Software Developers/3. AI-Powered Software and System Design/1. Data Serialization and Configuration-Driven Development/1.2 Using the DALL-E API.md",
     "Courses/Generative AI for Software Developers/3. AI-Powered Software and System Design/1. Data Serialization and Configuration-Driven Development/1.1 Configuration-driven development overview.md",
     "Courses/Generative AI for Software Developers/3. AI-Powered Software and System Design/3. Software Design Patterns",
@@ -219,8 +221,6 @@
     "Courses/Generative AI for Software Developers/1. Introduction to Generative AI for Software Development/3. Leveraging an LLM for code analysis/3.5 Trees.md",
     "Courses/Generative AI for Software Developers/1. Introduction to Generative AI for Software Development/3. Leveraging an LLM for code analysis/3.7 Hash tables and maps.md",
     "Courses/Generative AI for Software Developers/1. Introduction to Generative AI for Software Development/3. Leveraging an LLM for code analysis/3.3 Linked list.md",
-    "Courses/Generative AI for Software Developers/1. Introduction to Generative AI for Software Development/3. Leveraging an LLM for code analysis/3.6 Graphs.md",
-    "Courses/Generative AI for Software Developers/1. Introduction to Generative AI for Software Development/3. Leveraging an LLM for code analysis/3.1 Data Structures and LLM Interaction.md",
     "Courses/Generative AI for Software Developers/1. Introduction to Generative AI for Software Development/3. Leveraging an LLM for code analysis/doubly-linked-list.png",
     "Courses/Generative AI for Software Developers/1. Introduction to Generative AI for Software Development/3. Leveraging an LLM for code analysis/singly-linked-list.png",
     "Courses/Generative AI for Software Developers/3. Leveraging an LLM for code analysis/3.3linkedList.png",
