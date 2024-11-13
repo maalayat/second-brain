@@ -4,21 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "4e9b91285743e8f9",
+        "id": "14262f94741b3378",
         "type": "tabs",
         "children": [
           {
-            "id": "1b7755e5fae8ad82",
+            "id": "c2df9d3a1678bbbd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Courses/Generative AI for Software Developers/3. AI-Powered Software and System Design/2. Databases/2.2 Implementing CRUD operations.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": false
               },
-              "icon": "lucide-file",
-              "title": "2.2 Implementing CRUD operations"
+              "icon": "git-pull-request",
+              "title": "Diff View (workspace.json)"
             }
           }
         ]
@@ -183,10 +182,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1b7755e5fae8ad82",
+  "active": "c2df9d3a1678bbbd",
   "lastOpenFiles": [
-    "Courses/Generative AI for Software Developers/3. AI-Powered Software and System Design/2. Databases/2.1 Design and implement a database schema.md",
+    "Courses/Generative AI for Software Developers/3. AI-Powered Software and System Design/3. Software Design Patterns/3.8 Strategy Pattern.md",
+    "Courses/Generative AI for Software Developers/3. AI-Powered Software and System Design/3. Software Design Patterns/3.7 Template Method Pattern.md",
+    "Courses/Generative AI for Software Developers/3. AI-Powered Software and System Design/3. Software Design Patterns/3.6 Factory Patterns.md",
+    "Courses/Generative AI for Software Developers/3. AI-Powered Software and System Design/3. Software Design Patterns/3.5 Singleton for database connection manager.md",
+    "Courses/Generative AI for Software Developers/3. AI-Powered Software and System Design/3. Software Design Patterns/3.4 Patterns advice from an LLM.md",
+    "Courses/Generative AI for Software Developers/3. AI-Powered Software and System Design/3. Software Design Patterns/3.3 Singletons.md",
+    "Courses/Generative AI for Software Developers/3. AI-Powered Software and System Design/3. Software Design Patterns/3.2 Gang of Four patterns overview.md",
+    "Courses/Generative AI for Software Developers/3. AI-Powered Software and System Design/3. Software Design Patterns/3.1 Introduction.md",
     "Courses/Generative AI for Software Developers/3. AI-Powered Software and System Design/2. Databases/2.2 Implementing CRUD operations.md",
+    "Courses/Generative AI for Software Developers/3. AI-Powered Software and System Design/2. Databases/2.1 Design and implement a database schema.md",
     "Courses/Generative AI for Software Developers/3. AI-Powered Software and System Design/1. Data Serialization and Configuration-Driven Development/1.4 Serializing results.md",
     "Courses/Generative AI for Software Developers/3. AI-Powered Software and System Design/1. Data Serialization and Configuration-Driven Development/1.3 Implementing CDD.md",
     "Courses/Generative AI for Software Developers/3. AI-Powered Software and System Design/1. Data Serialization and Configuration-Driven Development/1.2 Using the DALL-E API.md",
@@ -207,20 +214,12 @@
     "Courses/Generative AI for Software Developers/2. Team Software Engineering with AI/1. Testing and Debugging/1.4 Automated testing.md",
     "Courses/Generative AI for Software Developers/2. Team Software Engineering with AI/1. Testing and Debugging/1.3 Functional testing.md",
     "Courses/Generative AI for Software Developers/2. Team Software Engineering with AI/1. Testing and Debugging/1.2 Exploratory testing.md",
-    "Courses/Generative AI for Software Developers/2. Team Software Engineering with AI/1. Testing and Debugging/1.6 Analyzing code for security vulnerabilities.md",
     "Courses/Generative AI for Software Developers/2. Team Software Engineering with AI/1. Testing and Debugging/SoftwareTesting.png",
-    "Courses/Generative AI for Software Developers/Prompts.md",
-    "Courses/Generative AI for Software Developers/1. Introduction to Generative AI for Software Development/1. Introduction to Generative AI/1.6 Key Transformer concepts.md",
     "Courses/Generative AI for Software Developers/2. Team Software Engineering with AI/3. Dependency Management",
     "Courses/Generative AI for Software Developers/2. Team Software Engineering with AI/2. Documentation",
     "Courses/Generative AI for Software Developers/2. Team Software Engineering with AI/1. Testing and Debugging",
     "Courses/Generative AI for Software Developers/2. Team Software Engineering with AI",
     "Courses/Generative AI for Software Developers/1. Introduction to Generative AI for Software Development",
-    "Courses/Generative AI for Software Developers/1. Introduction to Generative AI for Software Development/0. Setting up your Jupyter environment.md",
-    "Courses/Generative AI for Software Developers/1. Introduction to Generative AI for Software Development/3. Leveraging an LLM for code analysis/3.4 Doubly-linked List.md",
-    "Courses/Generative AI for Software Developers/1. Introduction to Generative AI for Software Development/3. Leveraging an LLM for code analysis/3.5 Trees.md",
-    "Courses/Generative AI for Software Developers/1. Introduction to Generative AI for Software Development/3. Leveraging an LLM for code analysis/3.7 Hash tables and maps.md",
-    "Courses/Generative AI for Software Developers/1. Introduction to Generative AI for Software Development/3. Leveraging an LLM for code analysis/3.3 Linked list.md",
     "Courses/Generative AI for Software Developers/1. Introduction to Generative AI for Software Development/3. Leveraging an LLM for code analysis/doubly-linked-list.png",
     "Courses/Generative AI for Software Developers/1. Introduction to Generative AI for Software Development/3. Leveraging an LLM for code analysis/singly-linked-list.png",
     "Courses/Generative AI for Software Developers/3. Leveraging an LLM for code analysis/3.3linkedList.png",
